@@ -1,9 +1,10 @@
 import './App.css';
+import Content from './components/Content';
 
 function App() {
   return (
-    <div className="app">
-     <h1 className="bg-red-500">Recipe Page</h1>
+    <div className="app bg-white">
+      <Content/>
     </div>
   );
 }
