@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+<h1 align="center">Recipe Page</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+<h2>
+   <a href="https://recipe-page-devchallenge.web.app/">
+   Demo
+   </a>
+   <span> | </span>
+   <a href="https://devchallenges.io/solutions/RZAUFQD7n5Oq92THecF3">
+   Solution
+   </a>
+   <span> | </span>
+   <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
+   Challenge
+   </a>
+</h2>
 
-In the project directory, you can run:
+A recipe page design from [DevChallenges](https://devchallenges.io/) implemented using [TailwindCss](https://tailwindcss.com/) & [ReactJS](https://reactjs.org/) framework.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/StevenPss/recipe-page/blob/main/LICENSE)
+<img src="https://img.shields.io/badge/developed%20by-StevenPss-blue.svg">
+[![Follow on GitHub](https://img.shields.io/github/followers/StevenPss?label=Follow&style=social)](https://github.com/StevenPss)
+<img src="https://img.shields.io/github/stars/StevenPss/recipe-page.svg?style=flat">
+<img src="https://img.shields.io/github/languages/top/StevenPss/recipe-page.svg"/>
+[![issues](https://img.shields.io/github/issues/StevenPss/blog.svg)](https://github.com/StevenPss/recipe-page/issues)
+[![issues](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/StevenPss/recipe-page/pulls)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+</p>
 
-### `npm test`
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Recipe Page
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+All contributions are welcomed! (but please submit an issue to make sure the PR is warranted first)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
-### `npm run eject`
+1. Clone this repo
+    ```zsh
+    ~ git clone https://github.com/StevenPss/recipe-page
+    ```
+2. Access your project directory 
+   ```zsh
+    ~ cd recipe-page
+   ```
+3. Install dependencies
+   ```zsh
+    ~ npm install
+   ```
+4. Run the app
+   ```zsh
+    ~ npm start
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Built With
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- [TailwindCss](https://tailwindcss.com/)
+- [ReactJS](https://reactjs.org/)
 
-## Learn More
+## Features
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht) was to build an application to complete the following user stories:
 
-### Code Splitting
+- [x] User story: This is a completed user stories
+- [ ] User story: This is a incompleted user stories
+- [ ] User story: This is a incompleted 2nd user stories
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Acknowledgements
 
-### Analyzing the Bundle Size
+<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- [Tailwindcss docs](https://tailwindcss.com/docs)
 
-### Making a Progressive Web App
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- GitHub [@StevenPss](https://github.com/StevenPss)
+- Twitter [@StevenPss_](https://twitter.com/StevenPss_)
 
-### Advanced Configuration
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is an open-sourced software licensed under the [MIT license](https://github.com/StevenPss/recipe-page/blob/main/LICENSE).
