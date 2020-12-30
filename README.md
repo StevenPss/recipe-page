@@ -36,6 +36,9 @@ A recipe page design from [DevChallenges](https://devchallenges.io/) implemented
 
 All contributions are welcomed! (but please submit an issue to make sure the PR is warranted first)
 
+
+![screenshot](https://github.com/StevenPss/recipe-page/blob/dev/src/static/demo.png)
+
 ## Installation
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
